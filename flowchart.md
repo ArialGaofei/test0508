@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
    A[Receive returns from courier companies] --> B[Returns from Canada or US];
    B --> C[Companies in Canada: Wholesale, Tsaac Technologies, Science Resource];
