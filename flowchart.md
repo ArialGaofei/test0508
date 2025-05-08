@@ -12,7 +12,7 @@ graph TD;
    I --> J[Discard];
    I --> K[Lack of parts/boxes → Reorder to China];
    K --> L[Place in repair area];
-   L --> F;
+   L --> G;
    H --> M[Back to stock];
    M --> N[Input computer records];
    N --> O[Update inventory];
